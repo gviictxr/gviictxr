@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF&labelColor=000000)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-000000.svg?style=for-the-badge&logo=Google-Sheets&logoColor=FFFFFF&labelColor=000000)
+![Power Bi](https://img.shields.io/badge/Power%20BI-000000.svg?style=for-the-badge&logo=Power-BI&logoColor=FFFFFF&labelColor=000000)
 
 ## Other Skills ##
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=FFFFFF&labelColor=000000)
@@ -22,7 +23,6 @@
 
 ## Study ##
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=000000)
-![Power Bi](https://img.shields.io/badge/Power%20BI-000000.svg?style=for-the-badge&logo=Power-BI&logoColor=FFFFFF&labelColor=000000)
 
 ### Social ###
 <div>
